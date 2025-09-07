@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment variables and logs (optional)
+*.env
+*.log
+
+# Python packaging
+*.egg-info/
+build/
+dist/
+
+# Screenshot (optional - comment this line if you want to include the screenshot)
+# screenshot.png
