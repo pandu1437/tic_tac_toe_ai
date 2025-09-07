@@ -13,7 +13,7 @@ An intelligent, single-player Tic Tac Toe game built using **Python** and **Tkin
 - 👨‍💻 Built with Python and Tkinter (no external libraries)
 
 ---
-📸 Screenshot(tic_tac_toe_ai.png.png)
+📸 Screenshot(tic_tac_toe_ai.png)
 
 ## 💻 How to Run
 
